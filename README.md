@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @cristian-webmarc
+- 👀 I’m interested in anything software related
+- 🌱 I’m currently learning neural networks
+- 💞️ I’m looking to collaborate on anything that I find interesting
+- 📫 How to reach me ...through GitHub
